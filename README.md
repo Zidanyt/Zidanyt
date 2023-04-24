@@ -3,7 +3,7 @@
 
 📫 Como chegar até mim: zidanyteixeira18@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanyt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zidanyt&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanyt&layout=compact&langs_count=16&theme=dark" />
 
 <div style="display: inline_block"><br>
